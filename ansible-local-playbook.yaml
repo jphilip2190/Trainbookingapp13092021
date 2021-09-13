@@ -1,0 +1,5 @@
+---
+HOST: ALL
+Tasks:
+    yum: node.js
+    state: present
